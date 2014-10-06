@@ -243,7 +243,31 @@ kits:
       - 258 1
       - 256 1
       - 257 1
-
+  leather:
+    delay: 43200
+    items:
+      - 298 1 name:&k&5L&7LK&8Armour&k&5L
+      - 299 1 name:&k&5L&7LK&8Armour&k&5L
+      - 300 1 name:&k&5L&7LK&8Armour&k&5L
+      - 301 1 name:&k&5L&7LK&8Armour&k&5L
+      - 257 1
+      - 258 1
+      - 267 1
+      - 256 1
+      - 364 10
+      - 373:8193 4
+      - 322:1 1
+  iron:
+    delay: 43200
+    items:
+      - 306 1 name:&k&5I&7IK&7Armour&k&5I
+      - 307 1 name:&k&5I&7IK&7Armour&k&5I
+      - 308 1 name:&k&5I&7IK&7Armour&k&5I
+      - 309 1 name:&k&5I&7IK&7Armour&k&5I
+      - 257 1 efficiency:3 unbreaking:2 fortune:2 name:&k&5I&7IK&8Pick&k&5I
+      - 278 1 name:&k&5I&7IK&8Sword&k&5I
+      - 258 1 efficiency:3 unbreaking:2 fortune:2 name:&k&5I&7IK&8Axe&k&5I
+      - 256 1 efficiency:3 unbreaking:2 fortune:2 name:&k&5I&7IK&8Spade&k&5I
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
 # To enable signs, remove # symbol. To disable all signs, comment/remove each sign.
@@ -259,7 +283,7 @@ enabledSigns:
   #- free
   #- disposal
   #- warp
-  #- kit
+  - kit
   #- mail
   #- enchant
   #- gamemode
