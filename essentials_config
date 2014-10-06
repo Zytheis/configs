@@ -287,6 +287,24 @@ kits:
       - 322:1 4
       - 384 128
       - 257 1 efficiency:5 unbreaking:3 fortune:3 silktouch:1 name:&6&kG&7GK&4GOD&cPick&6&kG
+  diamond:
+    delay: 43200
+    items:
+      - 310 4 protection:4 unbreaking:3 Respiration:3 thorns:3 AquaAffinity:1 name:&0&k[&b&lDK&0&k]&cArmour&0&k[&b&lDK&0&k]
+      - 311 4 protection:4 unbreaking:3 Thorns:3 name:&0&k[&b&lDK&0&k]&cArmour&0&k[&b&lDK&0&k]
+      - 312 4 protection:4 unbreaking:3 Thorns:3 name:&0&k[&b&lDK&0&k]&cArmour&0&k[&b&lDK&0&k]
+      - 313 4 protection:4 unbreaking:3 Thorns:3 name:&0&k[&b&lDK&0&k]&cArmour&0&k[&b&lDK&0&k]
+      - 278 1 efficiency:5 unbreaking:3 fortune:3 name:&0&k[&b&lDK&0&k]&cPick&0&k[&b&lDK&0&k]
+      - 276 1 sharpness:4 unbreaking:3 knockback:2 smite:4 looting:3 name:&0&k[&b&lDK&0&k]&cSword&0&k[&b&lDK&0&k]
+      - 279 1 sharpness:4 unbreaking:3 efficiency:5 fortune:3 name:&0&k[&b&lDK&0&k]&cAxe&0&k[&b&lDK&0&k]
+      - 277 1 unbreaking:3 efficiency:5 fortune:3 name:&0&k[&b&lDK&0&k]&cSpade&0&k[&b&lDK&0&k]
+      - 277 1 unbreaking:3 efficiency:5 siltouch:1 name:&0&k[&b&lDK&0&k]&cSTSpade&0&k[&b&lDK&0&k]
+      - 278 2 efficiency:4 unbreaking:3 fortune:3 name:&0&k[&b&lDK&0&k]&4GOD&cPick&0&k[&b&lDK&0&k]
+      - 278 4 silktouch:1 unbreaking:3 name:&0&k[&b&lDK&0&k]&cSTPick&0&k[&b&lDK&0&k]
+      - 364 128
+      - 373:8193 64
+      - 322:1 32
+      - 384 256
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
 # To enable signs, remove # symbol. To disable all signs, comment/remove each sign.
