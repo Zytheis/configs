@@ -271,7 +271,6 @@ kits:
       - 364 20
       - 373:8193 8
       - 322:1 2
-      - 384 128
   gold:
     delay: 43200
     items:
@@ -286,7 +285,7 @@ kits:
       - 364 40
       - 373:8193 16
       - 322:1 4
-      - 384 256
+      - 384 128
       - 257 1 efficiency:5 unbreaking:3 fortune:3 silktouch:1 name:&6&kG&7GK&4GOD&cPick&6&kG
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
