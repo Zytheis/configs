@@ -246,28 +246,32 @@ kits:
   leather:
     delay: 43200
     items:
-      - 298 1 name:&k&5L&7LK&8Armour&k&5L
-      - 299 1 name:&k&5L&7LK&8Armour&k&5L
-      - 300 1 name:&k&5L&7LK&8Armour&k&5L
-      - 301 1 name:&k&5L&7LK&8Armour&k&5L
-      - 257 1
-      - 258 1
-      - 267 1
-      - 256 1
+      - 298 1 name:&5&kL&7LK&8Armour&5&kL
+      - 299 1 name:&5&kL&7LK&8Armour&5&kL
+      - 300 1 name:&5&kL&7LK&8Armour&5&kL
+      - 301 1 name:&5&kL&7LK&8Armour&5&kL
+      - 257 1 name:&5&kL&7LK&8Pick&5&kL
+      - 258 1 name:&5&kL&7LK&8Axe&5&kL
+      - 267 1 name:&5&kL&7LK&8Sword&5&kL
+      - 256 1 name:&5&kL&7LK&8Spade&5&kL
       - 364 10
       - 373:8193 4
       - 322:1 1
   iron:
     delay: 43200
     items:
-      - 306 1 name:&k&5I&7IK&7Armour&k&5I
-      - 307 1 name:&k&5I&7IK&7Armour&k&5I
-      - 308 1 name:&k&5I&7IK&7Armour&k&5I
-      - 309 1 name:&k&5I&7IK&7Armour&k&5I
-      - 257 1 efficiency:3 unbreaking:2 fortune:2 name:&k&5I&7IK&8Pick&k&5I
-      - 278 1 name:&k&5I&7IK&8Sword&k&5I
-      - 258 1 efficiency:3 unbreaking:2 fortune:2 name:&k&5I&7IK&8Axe&k&5I
-      - 256 1 efficiency:3 unbreaking:2 fortune:2 name:&k&5I&7IK&8Spade&k&5I
+      - 306 1 name:&5&kI&7IK&7Armour&5&kI
+      - 307 1 name:&5&kI&7IK&7Armour&5&kI
+      - 308 1 name:&5&kI&7IK&7Armour&5&kI
+      - 309 1 name:&5&kI&7IK&7Armour&5&kI
+      - 257 1 efficiency:3 unbreaking:2 fortune:2 name:&5&kI&7IK&8Pick&5&kI
+      - 278 1 name:&5&kI&7IK&8Sword&5&kI
+      - 258 1 efficiency:3 unbreaking:2 fortune:2 name:&5&kI&7IK&8Axe&5&kI
+      - 256 1 efficiency:3 unbreaking:2 fortune:2 name:&5&kI&7IK&8Spade&5&kI
+      - 364 20
+      - 373:8193 8
+      - 322:1 2
+      - 384 128
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
 # To enable signs, remove # symbol. To disable all signs, comment/remove each sign.
