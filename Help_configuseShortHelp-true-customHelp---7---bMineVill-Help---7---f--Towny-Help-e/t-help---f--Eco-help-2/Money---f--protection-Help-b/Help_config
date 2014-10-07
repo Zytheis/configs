@@ -12,11 +12,11 @@ customHelp:
   - "&7###################"
 customHelpSpecific:
   kits:
-  - "&7###################"
-  - "      &eKit Help"
-  - "&7###################"
-    - "&c&lYou must buy the kits in
-    - "&c&lconsecutive order!"
+    - "&7###################"
+    - "      &eKit Help"
+    - "&7###################"
+    - "&c&lYou must buy the kits in"
+    - "&C&lconsecutive order!"
     - "KitIron:"
     - "  * MagicCarpet"
     - "  * Iron Kit"
