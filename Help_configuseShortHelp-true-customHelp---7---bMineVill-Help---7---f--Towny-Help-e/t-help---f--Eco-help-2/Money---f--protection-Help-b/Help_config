@@ -12,7 +12,9 @@ customHelp:
   - "&7###################"
 customHelpSpecific:
   survival:
-    - "&e--Survival help--"
+  - "&7###################"
+  - "      &eKit Help"
+  - "&7###################"
     - "Lines of help."
   guns:
     - "&e--Guns help--"
