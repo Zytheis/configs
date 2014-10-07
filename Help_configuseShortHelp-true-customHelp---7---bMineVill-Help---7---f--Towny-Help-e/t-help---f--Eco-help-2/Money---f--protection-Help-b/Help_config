@@ -11,12 +11,12 @@ customHelp:
   - "&2 Market&f Ask an Admin"
   - "&7###################"
 customHelpSpecific:
-  Kits:
+  kits:
   - "&7###################"
   - "      &eKit Help"
   - "&7###################"
     - "&c&lYou must buy the kits in
-    - "&C&lconsecutive order!"
+    - "&c&lconsecutive order!"
     - "KitIron:"
     - "  * MagicCarpet"
     - "  * Iron Kit"
@@ -32,7 +32,7 @@ customHelpSpecific:
     - "  * pweather(private weather)"
     - "  * feed"
     - "  * hat"
-    - "KitDiamond"
+    - "KitDiamond:"
     - "  * Diamond Kit"
     - "  * Able to fly"
     - "  * MOBdisguise(all mobs)"
