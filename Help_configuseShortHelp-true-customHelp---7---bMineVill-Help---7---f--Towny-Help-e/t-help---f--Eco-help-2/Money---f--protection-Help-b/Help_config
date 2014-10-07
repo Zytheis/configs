@@ -15,8 +15,5 @@ customHelpSpecific:
   - "&7###################"
   - "      &eKit Help"
   - "&7###################"
-    - "Lines of help."
-  guns:
-    - "&e--Guns help--"
-    - "Lines of help with special symbols:"
-    - "More help."
+    - "&c&lYou must buy the kits in consecutive order!"
+    - "KitIron:"
