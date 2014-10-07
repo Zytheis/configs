@@ -1,0 +1,20 @@
+useShortHelp: true
+customHelp:
+  - "&7###################"
+  - "      &bMineVill Help"
+  - "&7###################"
+  - "&f- Towny Help &e/t help"
+  - "&f- Eco help &2/Money ?"
+  - "&f- protection Help &b/lwc"
+  - "&7###################"
+  - "&f- To Buy a stall at the"
+  - "&2 Market&f Ask an Admin"
+  - "&7###################"
+customHelpSpecific:
+  survival:
+    - "&e--Survival help--"
+    - "Lines of help."
+  guns:
+    - "&e--Guns help--"
+    - "Lines of help with special symbols:"
+    - "More help."
